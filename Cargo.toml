@@ -4,3 +4,11 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+egui = "0.33.3"
+eframe = "0.33.3"
+egui-notify = "0.21.0"
+
+# these 3 will be used incase using ani-cli as a backbone doesn't work for now
+reqwest = "0.12.25"
+scraper = "0.25.0"
+serde_json = "1.0.145"

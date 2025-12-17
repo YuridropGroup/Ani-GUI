@@ -1,1 +1,3 @@
-# will update when made public
+# Ani-GUI
+
+## Currently not in a usable state at this moment!
